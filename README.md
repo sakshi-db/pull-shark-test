@@ -1,18 +1,8 @@
 # pull-shark-test
 </br>
-Test PR 1
+Test PR 1,2, 3 & 4
 </br>
-Test PR 2
-</br>
-Test PR 3
-</br>
-Test pairing 
-</br>
-Test PR 4
-</br>
-Test pairing 2
-</br>
-Test pairing 3
+Test pairing 1,2 & 3
 </br>
 yolo polo
 </br>
