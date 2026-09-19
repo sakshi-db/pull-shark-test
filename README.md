@@ -7,3 +7,5 @@ Test pairing 1,2 & 3
 yolo polo
 </br>
 pea pair extraaa 
+</br>
+This repo is a just a lil fun test experiment, a dumb try to explore github achievements thingy!
